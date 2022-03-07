@@ -1,3 +1,4 @@
+// Déclarer le tableau
 let tableau = [1,2,3,4,10,11]
 
 tableau.sort((a, b) => a - b)
