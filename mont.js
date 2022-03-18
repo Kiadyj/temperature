@@ -1,4 +1,4 @@
-// Déclarer le tableau
+// show the list of the array
 let tableau = [1,2,3,4,10,11]
 
 tableau.sort((a, b) => a - b)//sort array elements
